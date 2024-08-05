@@ -1,0 +1,4 @@
+repository "Touhou@jamrat@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

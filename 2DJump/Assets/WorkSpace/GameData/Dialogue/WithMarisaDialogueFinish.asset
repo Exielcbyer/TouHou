@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20a3fc7d6d48f534daad3c44f8895228, type: 3}
+  m_Name: WithMarisaDialogueFinish
+  m_EditorClassIdentifier: 
+  dialogueList:
+  - faceImage: {fileID: 21300000, guid: 2ac9066e8dbbec74692be1aa2119819f, type: 3}
+    OnLeft: 1
+    name: "\u742A\u9732\u8BFA"
+    dialogueText: "\u662F\u54B1\u8D62\u5566\uFF01"
+  - faceImage: {fileID: 21300000, guid: 9ec0ca269ec0b4f4fa12877c83d9dd88, type: 3}
+    OnLeft: 1
+    name: "\u9B54\u7406\u6C99"
+    dialogueText: "\u54CE\u3001\u54CE\u5440\n\u6CA1\u60F3\u5230\u4F60\u8FD8\u633A\u80FD\u6253\u7684\u561B"
+  - faceImage: {fileID: 21300000, guid: 2ac9066e8dbbec74692be1aa2119819f, type: 3}
+    OnLeft: 1
+    name: "\u742A\u9732\u8BFA"
+    dialogueText: "\u6BD5\u7ADF\u54B1\u53EF\u662F\u6700\u5F3A\u7684...\n\u7B49\u7B49"
+  - faceImage: {fileID: 21300000, guid: 2ac9066e8dbbec74692be1aa2119819f, type: 3}
+    OnLeft: 1
+    name: "\u742A\u9732\u8BFA"
+    dialogueText: "\u8BDD\u8BF4\u4F60\u4E3A\u4EC0\u4E48\u8981\u7A81\u7136\u653B\u51FB\u54B1\u5440"
+  - faceImage: {fileID: 21300000, guid: 2ac9066e8dbbec74692be1aa2119819f, type: 3}
+    OnLeft: 1
+    name: "\u742A\u9732\u8BFA"
+    dialogueText: "\u554A\uFF0C\u83AB\u975E\u201C\u5F02\u53D8\u201D\u5C31\u662F\u4F60\u5F04\u51FA\u6765\u7684"

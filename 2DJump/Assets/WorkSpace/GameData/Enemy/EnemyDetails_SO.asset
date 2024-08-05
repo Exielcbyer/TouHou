@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c7263d271cccbf4e8c589da30b9433e, type: 3}
+  m_Name: EnemyDetails_SO
+  m_EditorClassIdentifier: 
+  enemyDetatilsList:
+  - enemyID: 0
+    heath: 30
+    maxHeath: 30
+    isDead: 0
+    enemyType: 0
+  - enemyID: 1
+    heath: 30
+    maxHeath: 30
+    isDead: 0
+    enemyType: 0
+  - enemyID: 2
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 3
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 4
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 5
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 6
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 7
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 0
+  - enemyID: 8
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 9
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 10
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 11
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 12
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 13
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 14
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1
+  - enemyID: 15
+    heath: 20
+    maxHeath: 20
+    isDead: 0
+    enemyType: 1

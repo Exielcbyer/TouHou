@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: db8196f05592c8c47b88f1812c9f707b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barrageOnePrefab: {fileID: 7478446322099990984, guid: b0413a7c76a852245866bf323da7d441, type: 3}
+  - barrageTwoPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

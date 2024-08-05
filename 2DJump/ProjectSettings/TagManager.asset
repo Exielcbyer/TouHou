@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - IceField
+  - Enemy
+  - BoundsConfiner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Barrage
+  - AttackArea
+  - Enemy
+  - Panel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2485834093
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 3325954479
+    locked: 0
+  - name: Player
+    uniqueID: 2120442663
+    locked: 0
+  - name: Barrage
+    uniqueID: 911297847
+    locked: 0
+  - name: Ground
+    uniqueID: 3804461655
+    locked: 0
+  - name: Particles
+    uniqueID: 2340864299
+    locked: 0
